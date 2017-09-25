@@ -6,4 +6,5 @@ Python study group depository
         |- README.md
         |-Exercises/
             |- exercise_frequency_content.md
-        |-Exercise/submission
+        |-Exercise_submissions
+	    |- exercise_frequency_content.md
