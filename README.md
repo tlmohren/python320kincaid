@@ -4,7 +4,10 @@ Python study group depository
 ### Depository structure
     python320kincaid/
         |- README.md
-        |-Exercises/
+        |- exercises/
             |- exercise_frequency_content.md
-        |-Exercise_submissions
+        |- exercise_submissions
 	    |- exercise_frequency_content.md
+
+### Interesting sources: 
+    [Project Euler, math exercises](https://projecteuler.net/archives)
