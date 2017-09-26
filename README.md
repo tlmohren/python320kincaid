@@ -10,4 +10,4 @@ Python study group depository
 	    |- exercise_frequency_content.md
 
 ### Interesting sources: 
-    [Project Euler, math exercises](https://projecteuler.net/archives)
+[Project Euler, math exercises](https://projecteuler.net/archives)
