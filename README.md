@@ -11,7 +11,7 @@ Python study group depository
 
 ### Jake vanderPlas online books: 
 
-[Whirlwind intro to pyton](https://github.com/jakevdp/WhirlwindTourOfPython)
+[Whirlwind intro to python](https://github.com/jakevdp/WhirlwindTourOfPython)
 
 [Python for data Science](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
 
