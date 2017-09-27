@@ -9,5 +9,9 @@ Python study group depository
         |- exercise_submissions
 	    |- exercise_frequency_content.md
 
-### Interesting sources: 
+### Jake vanderPlas online books: 
+[Whirlwind intro to pyton](https://github.com/jakevdp/WhirlwindTourOfPython)
+[Python for data Science](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)3
+
+### Other sources 
 [Project Euler, math exercises](https://projecteuler.net/archives)
