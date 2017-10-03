@@ -6,10 +6,10 @@ Python study group depository
         |- README.md
         |- exercises/
             |- exercise_frequency_content.md
-	    |- data/
-	        |- birds001.wav
-	        |- iris.csvfantail-02
-	        |- fantail-02.mp3
+            |- data/
+                |- birds001.wav
+                |- iris.csvfantail-02
+                |- fantail-02.mp3
         |- exercise_submissions/
             |- exercise_frequency_content.md
             |- exercise_iris.md
