@@ -8,7 +8,7 @@ Python study group depository
             |- exercise_frequency_content.md
             |- data/
                 |- birds001.wav
-                |- iris.csvfantail-02
+                |- iris.csv
                 |- fantail-02.mp3
         |- exercise_submissions/
             |- exercise_frequency_content.md
