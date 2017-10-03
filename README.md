@@ -11,8 +11,8 @@ Python study group depository
 	        |- iris.csvfantail-02
 	        |- fantail-02.mp3
         |- exercise_submissions/
-	    |- exercise_frequency_content.md
-	    |- exercise_iris.md
+            |- exercise_frequency_content.md
+            |- exercise_iris.md
 
 ### Jake vanderPlas online books: 
 
