@@ -6,7 +6,7 @@ Generally, this should involve reading in the image as a matrix of tuples (R, G,
 
 For example, running your code on the two test images (`./data/cardinal.jpg` & `./data/mountain.jpg`) should return something like this. 
 
-![clustering answers](./exercises/answers/kmeans_answers.jpg)
+![](https://github.com/tlmohren/python320kincaid/blob/master/exercises/answers/kmeans_answers.jpg)
 
 *Note: k-means is not deterministic so you may end up with a slightly different result. But the answers shouldn't be drastically different.*
 
