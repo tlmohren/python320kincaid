@@ -38,6 +38,7 @@ np.allclose(0,x)
 Out[3]: True
 ```
 ### Magic command(%) of the week: 
+%debug
 ```python
 def plot_frequency_spectrum(signal,sampling_rate):
      N = len(signal)
