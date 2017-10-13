@@ -1,10 +1,18 @@
-#The exercise: 
+### The exercise: 
 
-	1a) load the cookie image as a black and white image
-	1b) Do the fourier transform of the image
-	1c) Display the fourier spectrum 
+1a) load the cookie image as a black and white image
+
+1b) Do the fourier transform of the image, display the (shifted) fourier spectrum in log10 
+
+    yshift = scipy.fftpack.fftshift(y_random)
+    plt.imshow(np.log10(abs(yshift)+1) ,cmap='gray')
 	
-	2) Do inverse fourier transform and show image
+1d) do the inverse fourier transform, display inversed image
 	
-	3a) Set small fourier values to zero (i.e. lowest 90%)
-	3b) Do inverse fourier transform and show image
+2a) Create a random boolean mask with a parameter for the ratio
+
+2b) Apply the boolean mask to frequency spectrum of image, setting masked values to zero, and show spectrum and inversed image after applying mask
+	
+3a) Create a boolean mask, masking the lowest absolute values. Again use a parameter to set the ratio. 
+
+3b) Agauin apply the boolean mask to frequency spectrum of image, setting masked values to zero, and show spectrum and inversed image after applying mask
