@@ -1,6 +1,6 @@
 ### The exercise: 
 
-1a) load the cookie image as a black and white image
+1a) load an image (Cookie.jpg, Coffee.jpg, or Cardinal) as a black and white image
 
 1b) Do the fourier transform of the image, display the (shifted) fourier spectrum in log10 
 
