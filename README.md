@@ -9,11 +9,13 @@ Python study group depository
             |- exercise_color_clusters.md
             |- exercise_imageFFT.md
             |- exercise_iris.md
+            |- ...
         |- exercise_submissions/
             |- exercise_submission_frequency_content_*.md
             |- exercise_submission_color_clusters_*.md
             |- exercise_submission_imageFFT_*.md
             |- exercise_submission_iris_*.md
+            |- ...
             |- data/
                 |- birds001.wav
                 |- iris.csv
@@ -22,6 +24,7 @@ Python study group depository
                 |- coffee.jpg
                 |- cookie.jpg
                 |- mountain.jpg
+                |- ...
 
 ### Jake vanderPlas online books: 
 
