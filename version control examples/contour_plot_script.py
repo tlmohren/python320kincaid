@@ -45,8 +45,3 @@ ax1.set_title('contourf with levels')
 fig.tight_layout()
 
 plt.show()
-
-import matplotlib.image as mpimg
-img=mpimg.imread('figs/koala.jpg')
-mgplot = plt.imshow(img)
-plt.show()
