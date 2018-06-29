@@ -1,6 +1,6 @@
 #This week's exercise is basically: Fix Tanvi's code  
 
-I have added two data files (.csv) and the .ipy code into  the "python320kincaid\exercise_submissions\data\Tanvi's_code_and_data" folder. 
+I have added two data files (.csv) [here](http://drive.google.com/drive/u/1/folders/1vMRWL-QPh30T7fK17aJM7QgDpRJ74ocn) and the .ipy code into  the "python320kincaid\exercise_submissions\data\Tanvi's_code_and_data" folder. 
 
 Try to identify all that is wrong with it (focusing on memory issues) but free to fix other things as well.
 
