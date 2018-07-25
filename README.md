@@ -1,8 +1,6 @@
 # python320kincaid
 Python study group depository
 
-Notes
-
 ### Depository structure
     python320kincaid/
         |- README.md
