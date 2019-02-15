@@ -4,27 +4,12 @@ Python study group depository
 ### Depository structure
     python320kincaid/
         |- README.md
-        |- exercises/
-            |- exercise_frequency_content.md
-            |- exercise_color_clusters.md
-            |- exercise_imageFFT.md
-            |- exercise_iris.md
-            |- ...
-        |- exercise_submissions/
-            |- exercise_submission_frequency_content_*.md
-            |- exercise_submission_color_clusters_*.md
-            |- exercise_submission_imageFFT_*.md
-            |- exercise_submission_iris_*.md
-            |- ...
-            |- data/
-                |- birds001.wav
-                |- iris.csv
-                |- fantail-02.mp3
-                |- cardinal.jpg
-                |- coffee.jpg
-                |- cookie.jpg
-                |- mountain.jpg
-                |- ...
+        |- exercises_XXXX 
+		|--- exercise_XXXX.md
+		|--- exercise_submission_XXXX.ipynb
+		|--- data_XXXX
+		|----- datafile_XXXX.csv
+		
 
 ### Jake vanderPlas online books: 
 
