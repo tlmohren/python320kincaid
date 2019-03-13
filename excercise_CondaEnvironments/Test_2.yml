@@ -1,0 +1,7 @@
+name: test_yml
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - matplotlib=3.0.3
