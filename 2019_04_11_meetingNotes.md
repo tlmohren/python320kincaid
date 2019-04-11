@@ -1,5 +1,5 @@
 
-## Meeting notes Feb 14 python club
+## Meeting notes April 11 python club
 - Andrew would like to work with (stacks of) images, and with running tings on gpu's
 - Ryan would like to work with clusters
 - Jennifer would like to explore testing code
