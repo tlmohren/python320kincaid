@@ -24,4 +24,6 @@ Not everyone was able to make it to the first meeting of the quarter, but if you
 
 ## Topic ideas for future meetings
 - running things on AWS
-- ....
+- Multi-indexing in Pandas
+- conditional slide & manipulation in Pandas
+- replacing values in multi-index Pandas arrays
