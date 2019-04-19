@@ -1,3 +1,3 @@
-from functions import foo
+from functions import *
 import other.morefunctions
 import other.classes
