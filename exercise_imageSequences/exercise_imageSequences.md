@@ -32,3 +32,22 @@ this injury and can even fully regenerate.
   3. Perform a maximum intensity projection: for each pixel, find the maximum intensity value across all the images in the sequence. There is a `MaxZ.tif` file in the Dropbox folder so you can check your work.
   4. Perform a median intensity projection (i.e. calculate the median pixel-wise). There is a `medianZ.tif` file in the Dropbox folder to check your work.
   5. Extension task (if that was boring): Apply some filters to the data, e.g. a Gaussian low-pass filter or an edge-detection filter. `scikit-image` is a good resource for high-level functions like this (do you know of others?).
+
+# Notes from the day
+  * Matplotlib notebook `%matplotlib notebook` magic in Jupyter allows
+interactive editing, but can be buggy
+  * Good packages for working with images
+    * PIL (Python Image Library): some low-level functions for input/output, 
+many others are based on it
+    * OpenCV (`cv2`): Large library with cutting edge functions, documentation
+not always amazing
+    * Scikit-image (`skimage`): High-level functions to do many tasks, often
+built off of lower-level libraries
+    * `ndimage`: Lower-level functions that are FAST (I think based on C functions?)
+that is part of Scipy and is used by other packages
+  * `itkwidgets` is a package to allow 3D visualization, with rotating, 
+zooming in, etc.
+  * If you are looking to do image segmentation, check out 
+[Allen Cell Segmenter](https://www.allencell.org/segmenter.html). They
+have a lot of pre-made pipelines and the code is open source so a good way to 
+get tips and tricks for working with images (e.g. `itkwidgets`)
